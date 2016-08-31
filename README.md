@@ -16,3 +16,4 @@
 
 ### 例子
 * [购买流程](http://rawgit.com/wangpin34/learn-svg/master/demos/process.svg)
+* [按钮](http://rawgit.com/wangpin34/learn-svg/master/demos/buttons.svg)
